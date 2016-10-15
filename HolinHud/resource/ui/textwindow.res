@@ -1,5 +1,19 @@
 "Resource/UI/TextWindow.res"
 {
+	"welcomeBG"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"welcomeBG"
+		"xpos"			"172"
+		"ypos"			"50"
+		"wide"			"471"
+		"tall"			"370"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"border"		"TFThinLineBorder"
+	}
 	"info"
 	{
 		"ControlName"			"CTFTextWindow"
@@ -85,8 +99,8 @@
 	{
 		"ControlName"		"CExButton"
 		"fieldName"		"ok"
-		"xpos"			"r190"
-		"ypos"			"r40"
+		"xpos"			"r302"
+		"ypos"			"r105"
 		"zpos"			"6"
 		"wide"			"150"
 		"tall"			"30"
@@ -116,8 +130,8 @@
 		"tall"			"480"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fov"			"20"
 		
 		"model"
@@ -144,8 +158,8 @@
 		"tall"			"50"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"tabPosition"	"0"	
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
