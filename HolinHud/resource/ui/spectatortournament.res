@@ -6,11 +6,11 @@
 		"fieldName"		"specgui"
 		"wide"			"f0"
 		"tall"			"480"
-		"autoResize"	"0"
+		"autoResize"		"0"
 		"pinCorner"		"0"
 		"enabled"		"1"
 				
-		"team1_player_base_offset_x"		"-75"
+		"team1_player_base_offset_x"		"225"
 		"team1_player_base_y"				"0"
 		"team1_player_delta_x"				"-47"
 		"team1_player_delta_y"				"0"
@@ -248,7 +248,7 @@
 	{
 		"ControlName"	"Panel"
 		"fieldName"		"TopBar"
-		"visible"		"0"
+		"visible"		"1"
 		"tall"			"33"
 	}
 	"BottomBar"
