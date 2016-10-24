@@ -123,8 +123,8 @@
 		"fieldName"		"AmmoNoClip"
 		"font"			"BikoBold52"
 		"fgcolor"		"255 255 255 255"
-		"xpos"			"15"
-		"ypos"			"2"
+		"xpos"			"22"
+		"ypos"			"-3"
 		"zpos"			"5"
 		"wide"			"84"
 		"wide_lodef"	"83"
@@ -133,7 +133,7 @@
 		"tall_lodef"	"45"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-east"		
+		"textAlignment"	"center"		
 		"labelText"		"%Ammo%"
 		
 	}	
@@ -143,10 +143,10 @@
 		"fieldName"		"AmmoNoClipShadow"
 		"font"			"BikoBold52"
 		"fgcolor"		"0 0 0 255"
-		"xpos"			"16"
+		"xpos"			"24"
 		"xpos_hidef"	"2"
 		"xpos_lodef"	"2"
-		"ypos"			"5"
+		"ypos"			"-1"
 		"ypos_hidef"	"4"
 		"ypos_lodef"	"4"
 		"zpos"			"5"
@@ -157,7 +157,7 @@
 		"tall_lodef"	"45"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"south-east"		
+		"textAlignment"	"center"		
 		"labelText"		"%Ammo%"
 		
 	}
