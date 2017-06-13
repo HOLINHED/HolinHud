@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"infowelcomeBG"
-		"xpos"			"172"
+		"xpos"			"192"
 		"ypos"			"50"
 		"wide"			"471"
 		"tall"			"370"
@@ -126,7 +126,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"MapInfoContinue"
-		"xpos"			"r302"
+		"xpos"			"r360"
 		"ypos"			"r105"
 		"zpos"			"6"
 		"wide"			"150"
@@ -149,7 +149,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"MapInfoWatchIntro"
-		"xpos"			"c-50"
+		"xpos"			"c-50000"
 		"ypos"			"r40"
 		"ypos_lodef"			"r64"
 		"ypos_hidef"			"r54"
@@ -174,7 +174,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"MapInfoBack"
-		"xpos"			"r565"
+		"xpos"			"r640"
 		"ypos"			"r105"
 		"zpos"			"6"
 		"wide"			"150"
