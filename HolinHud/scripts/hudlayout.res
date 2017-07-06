@@ -16,7 +16,7 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c110"	[$WIN32]
+		"xpos"	"c150"	[$WIN32]
 		"ypos"	"c100"	[$WIN32]
 		"wide"	"250"
 		"tall"	"150"
@@ -282,7 +282,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"335"
+		"ypos"		"50"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
@@ -360,7 +360,7 @@
 	HudRoundTimer
 	{
 		"fieldName" "HudRoundTimer"
-		"xpos"	"c-20"
+		"xpos"	"c-200"
 		"ypos"	"440"
 		"wide"	"120"
 		"tall"  "40"
