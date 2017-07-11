@@ -67,8 +67,6 @@
 		"font"					"Default"
 		"xpos"					"85"
 		"ypos"					"23"
-		"ypos_minmode"			"0"
-		"xpos_minmode"			"0"
 		"zpos"					"2"
 		"wide"					"109"
 		"wide_minmode"			"50"
@@ -78,6 +76,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"textAlignment"			"Left"
+		"bgcolor_override" "80 80 105 175"
 		"dulltext"				"0"
 		"brighttext"			"0"
 	}					
