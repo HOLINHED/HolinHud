@@ -76,7 +76,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabel"
-		"font"			"HudFontSmall"
+		"font"			"TFFontLarge"
 		"font_minmode"	"TFFontLarge"
 		"xpos"			"8"
 		"xpos_minmode"	"30"
@@ -132,9 +132,9 @@
 		"enabled"		"0"	
 		"HealthBonusPosAdj"	"10"
 		"HealthDeathWarning"	"0.49"
-		"TFFont"		"HudFontSmall"
+		"TFFont"		"BikoBold52"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
-		"TextColor"		"HudOffWhite"
+		"TextColor"		"255 255 255 255"
 	}	
 	
 	"AmmoIcon"

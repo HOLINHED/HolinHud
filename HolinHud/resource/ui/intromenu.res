@@ -62,7 +62,7 @@
 	{
 		"ControlName"		"CExButton"
 		"fieldName"		"Continue"
-		"xpos"			"r190"
+		"xpos"			"r150"
 		"xpos_lodef"			"r222"
 		"xpos_hidef"			"r232"
 		"ypos"			"r40"
